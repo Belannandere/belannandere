@@ -1,57 +1,56 @@
-## Belannandere — he/him
+<h1 align="center">👽 Belannandere / Junior coder </h1>
 
-> *«Код — это поэзия, а дебаг — её редактура.»*
+###
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+</div>
 
-### Обо мне
+###
 
-- Разрабатываю CLI-приложения на Python с акцентом на чистоту кода, тестируемость и удобство для пользователя.
-- Увлекаюсь контейнеризацией (Docker), автоматизацией CI/CD и организацией процессов разработки.
-- Постоянно учусь новым технологиям, веду документацию проектов и довожу их до состояния "готово к показу".
-- Верю, что хороший код — это не только работающий код, но и понятный, тестируемый и документированный.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+</div>
 
----
+###
 
-### Обработка (языки и технологии)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+</div>
 
-Вот примерное распределение моего времени и интересов:
+###
 
-- **Python** ████████████░░░ 50%
-- **Docker** ████████░░░░░░ 25%
-- **Git / CI/CD** ██████░░░░░░░ 20%
-- **HTML / CSS** ██░░░░░░░░░░░ 5%
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Flowseal&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
+</p>
 
-> *Проценты примерные, отражают мой текущий фокус на этом проекте.*
+###
 
----
+<p align="center">
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=Flowseal&theme=radical&no-frame=true&no-bg=true&margin-w=4">
+</p>
 
-### Закреплённые репозитории
+###
 
-- **[forum-project](https://github.com/Belannandere/forum-project)** (Public)  
-  Веб-форум на Flask + SQLAlchemy с регистрацией, постами, комментариями, лайками и админ-панелью.  
-  Дипломный проект.  
-  ⭐ 0 • 🐍 Python / 🌐 HTML+CSS+JS
-
-- **[calc-cli](https://github.com/Belannandere/calc-cli)** (Public)  
-  Классный калькулятор с историей операций и сохранением в файл. Реализован на Python.  
-  ⭐ 0 • 🐍 Python
-
----
-
-### Статистика GitHub
-
-#### Общая активность
-
-[![Belannandere GitHub stats](https://github-readme-stats.vercel.app/api?username=Belannandere&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
-#### Текущая серия (Streak)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Belannandere&theme=default)](https://git.io/streak-stats)
-
-#### График вкладов за последний год
-
-[![Belannandere GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Belannandere&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
