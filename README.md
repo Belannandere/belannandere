@@ -36,7 +36,7 @@
 ###
 
 
-<!-- Блок популярных репозиториев (как на скриншоте) -->
+
 <h3 align="center">⭐ Popular repositories</h3>
 
 - **[forum-project](https://github.com/Belannandere/forum-project)** (Public)  
