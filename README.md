@@ -35,20 +35,61 @@
 
 ###
 
+<!-- Статистика и трофеи (обновлены темы) -->
 <p align="center">
-  <!-- Тема изменена на github_dark (была bear) -->
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Belannandere&theme=github_dark&show_icons=true&hide_border=true&count_private=true&locale=ru">
 </p>
 
-###
-
 <p align="center">
-  <!-- Тема изменена на dark (была radical) -->
   <img src="https://github-profile-trophy-tawny.vercel.app/?username=Belannandere&theme=dark&no-frame=true&no-bg=true&margin-w=4">
 </p>
 
 ###
 
+<!-- Блок популярных репозиториев (как на скриншоте) -->
+<h3 align="center">⭐ Popular repositories</h3>
+
+<p align="left">
+  <strong>calc-cli</strong><br>
+  Консольный калькулятор с историей операций и сохранением в файл.<br>
+  Реализован на Python.<br>
+  <code>Python</code>
+</p>
+
+<p align="left">
+  <strong>forum-project</strong><br>
+  Веб-форум для обмена опытом по выращиванию растений, экологии и устойчивому образу жизни.<br>
+  <code>Python</code>
+</p>
+
+<p align="left">
+  <strong>belannandere</strong> (public)
+</p>
+
+###
+
+<!-- Блок вклада -->
+<h3 align="center">📊 52 contributions in the last year</h3>
+
+<p align="center">
+  <small>Learn how we count contributions</small>
+</p>
+
+###
+
+<!-- Активность за август 2026 -->
+<h3 align="center">📈 Contribution activity – August 2026</h3>
+
+<p align="left">
+  <strong>Created 49 commits in 3 repositories</strong><br>
+  • Belannandere/calc-cli: 24 commits<br>
+  • Belannandere/forum-project: 20 commits<br>
+  • Belannandere/belannandere: 5 commits
+</p>
+
+###
+
+<!-- Змейка (оставлена из оригинала) -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Belannandere/Belannandere/refs/heads/output/github-contribution-grid-snake-dark.svg" />
