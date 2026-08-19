@@ -39,22 +39,12 @@
 <!-- Блок популярных репозиториев (как на скриншоте) -->
 <h3 align="center">⭐ Popular repositories</h3>
 
-<p align="left">
-  <strong>calc-cli</strong><br>
-  Консольный калькулятор с историей операций и сохранением в файл.<br>
-  Реализован на Python.<br>
-  <code>Python</code>
-</p>
+- **[forum-project](https://github.com/Belannandere/forum-project)** (Public)  
+  Веб-форум на Flask + SQLAlchemy с регистрацией, постами, комментариями, лайками и админ-панелью. Дипломный проект.  
+  ⭐ 0 • 🐍 Python / 🌐 HTML+CSS+JS
 
-<p align="left">
-  <strong>forum-project</strong><br>
-  Веб-форум для обмена опытом по выращиванию растений, экологии и устойчивому образу жизни.<br>
-  <code>Python</code>
-</p>
+- **[calc-cli](https://github.com/Belannandere/calc-cli)** (Public)  
+  Классный калькулятор с историей операций и сохранением в файл. Реализован на Python.  
+  ⭐ 0 • 🐍 Python
 
-<p align="left">
-  <strong>belannandere</strong> (public)
-</p>
-
-###
 
