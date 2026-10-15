@@ -33,18 +33,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
 </div>
 
-###
 
-
-
-<h3 align="center">⭐ Popular repositories</h3>
-
-- **[forum-project](https://github.com/Belannandere/forum-project)** (Public)  
-  Веб-форум на Flask + SQLAlchemy с регистрацией, постами, комментариями, лайками и админ-панелью. Дипломный проект.  
-  ⭐ 0 • 🐍 Python / 🌐 HTML+CSS+JS
-
-- **[calc-cli](https://github.com/Belannandere/calc-cli)** (Public)  
-  Классный калькулятор с историей операций и сохранением в файл. Реализован на Python.  
-  ⭐ 0 • 🐍 Python
 
 
