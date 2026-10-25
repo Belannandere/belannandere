@@ -11,6 +11,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
+  <img width="12" />
 </div>
 
 ###
